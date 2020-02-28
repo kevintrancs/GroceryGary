@@ -1,4 +1,4 @@
-package com.grocerygary.grocerygary;
+package com.grocerygary.app;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

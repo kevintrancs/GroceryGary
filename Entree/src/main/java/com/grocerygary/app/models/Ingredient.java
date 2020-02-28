@@ -1,4 +1,4 @@
-package com.grocerygary.models;
+package com.grocerygary.app.models;
 
 public class Ingredient {
     String name;
